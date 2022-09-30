@@ -1,6 +1,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/TeamTheFighting)
 
+<img src="../img/happy.PNG"  width="400" height="auto">
+
 ### TeamTheFighting 💪 (2022.08.02 ~ 2023.02.06)
 
 👋 Hello, We are junior developer 👨‍💻👩‍💻
