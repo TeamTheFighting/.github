@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/TeamTheFighting)
 
-<img src="../img/happy.PNG"  width="400" height="auto">
+<img src="https://t1.daumcdn.net/cfile/tistory/994D5C405AC83A2131"  width="400" height="auto">
 
 ### TeamTheFighting 💪 (2022.08.02 ~ 2023.02.06)
 
