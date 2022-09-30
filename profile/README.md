@@ -13,5 +13,4 @@
 - Arduino (이론만)
 - AWS
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2TeamTheFighting](https://github.com/TeamTheFighting)
-[![TeamTheFighting github stats](https://github-readme-stats.vercel.app/api?username=TeamTheFighting&show_icons=true&theme=dracula)](https://github.com/TeamTheFighting)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%TeamTheFighting](https://github.com/TeamTheFighting)
